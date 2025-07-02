@@ -1,7 +1,7 @@
 Package: HighFive
 Type: Package
-Title: The HighFive C++ interface to HDF5
-Description: A modern idiomatic header-only C++ interface for libhdf5.
+Title: The 'HighFive' 'C++' Interface to 'HDF5'
+Description: A modern idiomatic header-only C++ interface for 'libhdf5'. Original software can be found at <https://github.com/highfive-devs/highfive/>.
 Version: 3.0.0
 Date: 2025-07-02
 Authors@R: c(
