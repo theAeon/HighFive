@@ -2,8 +2,8 @@ Package: HighFive
 Type: Package
 Title: The 'HighFive' 'C++' Interface to 'HDF5'
 Description: A modern idiomatic header-only 'C++'' interface for 'libhdf5'. Original software can be found at <https://github.com/highfive-devs/highfive/>.
-Version: 3.0.0
-Date: 2025-07-02
+Version: 3.1.0
+Date: 2025-07-22
 Authors@R: c(
       person(given = 'Andrew', family = 'Robbins', email = 'robbiand@umich.edu', role = c('aut', 'cre'), comment = c(ORCID = "0009-0001-7961-7489")),
       person("Blue Brain Project/EPFL", role = "aut", comment = "HighFive Header Authors"))
