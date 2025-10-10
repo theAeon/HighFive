@@ -1,3 +1,8 @@
+## HighFive 3.2.0
+
+* Sync upstream 3.2.0
+* Support for checking sign of integer datatype.
+
 ## HighFive 3.1.0
 
 * Sync upstream 3.1.0
