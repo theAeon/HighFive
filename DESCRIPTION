@@ -6,6 +6,7 @@ Version: 3.2.0
 Date: 2025-19-10
 Authors@R: c(
       person(given = 'Andrew', family = 'Robbins', email = 'robbiand@umich.edu', role = c('aut', 'cre'), comment = c(ORCID = "0009-0001-7961-7489")),
+      person(given = 'Luc', family = 'Grosheintz', email = 'luc.grosheintz@gmail.com', role = 'aut', comment = "Primary Upstream Maintainer"),
       person("Blue Brain Project/EPFL", role = "aut", comment = "HighFive Header Authors"))
 URL: https://github.com/theAeon/HighFive
 BugReports: https://github.com/theAeon/HighFive/issues
