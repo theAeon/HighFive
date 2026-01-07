@@ -1,3 +1,11 @@
+## HighFive 3.3.0
+
+* Sync upstream 3.3.0
+* Support HDF5 v2.0.0.
+* Support mdspan.
+* Fewer dynamic allocations during regular hyperslab selection
+* Fewer typos and broken links.
+
 ## HighFive 3.2.0
 
 * Sync upstream 3.2.0
